@@ -49,6 +49,5 @@ $RECYCLE.BIN/
 #보안관련
 .env
 config.json
-package-lock.json
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,visualstudiocode
